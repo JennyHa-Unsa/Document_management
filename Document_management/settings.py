@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'document_management_db',
         'USER': 'dm_user',
-        'PASSWORD': 'secure_password',
+        'PASSWORD': 'dm_password',
         'HOST': 'localhost',
         'PORT': '3306',
     }
