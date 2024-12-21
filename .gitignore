@@ -1,0 +1,109 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# If you are using SQLite database files
+*.sqlite3
+
+# Django migrations
+**/migrations/**
+
+# Static and media files
+staticfiles/
+media/
+
+# pipenv
+*.lock
+pip-wheel-metadata/
+*.whl
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Environments
+.env
+.venv
+ENV/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+
+# Test logs
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Translations
+*.mo
+
+# Django dynamic settings files
+local_settings.py
+
+# Environment Variables
+.env
+.env.local
+.env.production
+.env.production.local
+.env.test
+.env.test.local
+
+# PyCharm
+.idea/
+
+# Anaconda environment
+.env/
+.conda/
+
+# JetBrains IDEs
+.idea
+*.iml
