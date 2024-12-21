@@ -107,3 +107,4 @@ local_settings.py
 # JetBrains IDEs
 .idea
 *.iml
+Document_management/__pycache__/settings.cpython-310.pyc
